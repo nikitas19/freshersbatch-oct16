@@ -1,3 +1,1 @@
-Hello!
-
-this is 3rd line
+This is readme text.
